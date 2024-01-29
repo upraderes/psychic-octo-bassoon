@@ -2,10 +2,34 @@
 Gatsbyjs test
 
 # Prerequisite 
-node installed 
 
-# current versions used 
+Node has to be installed
+
+```bash
+    brew install node
+```
+
+
+# current versions used within the project 
+
 [![Generic badge](https://img.shields.io/badge/node-21.6.1-green)](https://shields.io/)
 [![Generic badge](https://img.shields.io/badge/npm-10.2.4-green)](https://shields.io/)
+[![Generic badge](https://img.shields.io/badge/gatsby-3.13.1-purple)](https://shields.io/)
 
-# Install
+# Installation
+
+```bash
+    npx create-gatsby 
+```
+
+Follow the prompt indications and select the default options.
+
+In this installation, I used Typescript and chose not to use the CMS part and no styling system.
+I also chose not to install any additional plugins.
+
+```bash
+    cd src
+    npm run develop
+```
+
+start performing some common customization to the project.
