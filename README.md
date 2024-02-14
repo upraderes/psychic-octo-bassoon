@@ -24,6 +24,14 @@ Node has to be installed
 
 Follow the prompt indications and select the default options.
 
+WARNING 
+the installation will create a new folder which is reported as submodule for this repository. (in my example the src folder)
+In order to avoid this, I removed cached submodule (took me part 6 to see the issue)
+```bash
+    git rm --cached src
+    git rm -rf src/.git
+```
+
 In this installation, I used Typescript and chose not to use the CMS part and no styling system.
 I also chose not to install any additional plugins.
 
