@@ -13,8 +13,8 @@ Node has to be installed
 # current versions used within the project 
 
 [![Generic badge](https://img.shields.io/badge/node-21.6.1-green)](https://shields.io/)
-[![Generic badge](https://img.shields.io/badge/npm-10.2.4-green)](https://shields.io/)
-[![Generic badge](https://img.shields.io/badge/gatsby-3.13.1-purple)](https://shields.io/)
+[![Generic badge](https://img.shields.io/badge/npm-10.4.0-green)](https://shields.io/)
+[![Generic badge](https://img.shields.io/badge/gatsby-3.13.3-purple)](https://shields.io/)
 
 # Installation
 
