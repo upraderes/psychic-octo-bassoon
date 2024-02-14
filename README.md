@@ -35,7 +35,8 @@ I also chose not to install any additional plugins.
 # Plugins
 
 ```bash
-    npm install gatsby-plugin-image gatsby-plugin-sharp gatsby-source-filesystem
+    npm install gatsby-plugin-image gatsby-plugin-sharp gatsby-source-filesystem # part 3 and 4
+    npm install gatsby-plugin-mdx @mdx-js/react # part 5
 ```
 
 start performing some common customization to the project.
