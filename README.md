@@ -32,4 +32,10 @@ I also chose not to install any additional plugins.
     npm run develop
 ```
 
+# Plugins
+
+```bash
+    npm install gatsby-plugin-image gatsby-plugin-sharp gatsby-source-filesystem
+```
+
 start performing some common customization to the project.
